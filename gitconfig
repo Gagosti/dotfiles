@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = agustinho_santos@hotmail.com
+	name = Guilherme Santos
